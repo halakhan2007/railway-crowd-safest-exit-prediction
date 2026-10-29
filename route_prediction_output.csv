@@ -1,0 +1,6 @@
+Train_No,Arrival,Departure,Assigned_Platform,Predicted_Crowd,Recommended_Exit,Recommended_Route,Route_Cost
+12001,17:20,17:25,Platform 1A,182,Exit C,Platform 1A → Junction → Exit C,66.64
+12015,17:25,17:30,Platform 7,182,Exit C,Platform 7 → Junction → Exit C,80.64
+12110,17:30,17:35,Platform 1A,182,Exit C,Platform 1A → Junction → Exit C,66.64
+12205,17:35,17:40,Platform 7,182,Exit C,Platform 7 → Junction → Exit C,80.64
+12320,17:40,17:45,Platform 1A,182,Exit C,Platform 1A → Junction → Exit C,66.64

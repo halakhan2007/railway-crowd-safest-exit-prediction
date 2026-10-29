@@ -1,0 +1,40 @@
+Platform,Zone,Records,Current_Crowd,Trend_Per_Minute,Train_Impact,Prediction_10_Min,Status_10_Min,Prediction_20_Min,Status_20_Min,Prediction_45_Min,Status_45_Min
+Platform 1,Central Platform Walkway,17,15,11.25,4,131,MODERATE,244,CRITICAL,525,CRITICAL
+Platform 1,FOB Stairs Base & Waiting Corridor,15,12,-0.41,6,14,SAFE,10,SAFE,0,SAFE
+Platform 1,Mid-Platform Seating & Canopy Sector,15,30,0.23,14,46,SAFE,49,SAFE,55,SAFE
+Platform 1,Trackside Boarding Line (Near Indicator),16,37,-0.72,0,30,SAFE,23,SAFE,5,SAFE
+Platform 1,West Concourse & Ticket Counter Area,14,21,-0.03,0,21,SAFE,20,SAFE,20,SAFE
+Platform 1A,1A Buffer End Staging Line,21,26,-0.26,20,43,SAFE,41,SAFE,34,SAFE
+Platform 1A,FOB Ramp Access Corridor,27,38,-1.09,20,47,SAFE,36,SAFE,9,SAFE
+Platform 1A,Mid-Platform Walkway,24,28,-1.51,10,23,SAFE,8,SAFE,0,SAFE
+Platform 1A,Trackside Queue Sector,24,39,0.02,30,69,SAFE,69,SAFE,70,SAFE
+Platform 2,FOB Escalator Landing & Access Gate,21,63,0.13,40,104,MODERATE,106,MODERATE,109,MODERATE
+Platform 2,Mid-Platform Walkway (Near Stall 53/112),27,32,-0.45,30,58,SAFE,53,SAFE,42,SAFE
+Platform 2,Platform Level Stall & Indicator Sector,15,33,-0.06,24,56,SAFE,56,SAFE,54,SAFE
+Platform 2,Trackside Yellow Line Dispersal Path,14,38,1.24,10,60,SAFE,73,SAFE,104,MODERATE
+Platform 3,Central Commuter Waiting Line,20,41,0.37,30,75,SAFE,78,SAFE,88,SAFE
+Platform 3,Divyangjan / Cancer Patients Boarding Bay,18,75,0.02,40,115,MODERATE,115,MODERATE,116,MODERATE
+Platform 3,FOB Access Ramp Footing & Waiting Sector,16,44,-0.04,14,58,SAFE,57,SAFE,56,SAFE
+Platform 3,Platform 3 Upline Transit Corridor,14,43,0.14,14,58,SAFE,60,SAFE,63,SAFE
+Platform 3,Refreshment Stall Gathering Area,20,31,-2.49,14,20,SAFE,0,SAFE,0,SAFE
+Platform 4,Doorway Alignment & Commuter Surge Point,15,76,4.09,34,151,HIGH,192,HIGH,294,CRITICAL
+Platform 4,Front Motor Coach Deceleration Zone,16,45,0.53,16,66,SAFE,72,SAFE,85,SAFE
+Platform 4,High-Density Inflow Compression Line,13,20,-0.16,0,18,SAFE,17,SAFE,13,SAFE
+Platform 4,Mid-Coach Boarding Cluster & Platform Edge,15,27,-0.42,0,23,SAFE,19,SAFE,8,SAFE
+Platform 4,Trackside Yellow Line & Digital Indicator Bay,15,62,-0.83,0,54,SAFE,45,SAFE,24,SAFE
+Platform 5,Luggage Trolley Bay & Lead Coach Track Edge,27,47,-0.02,16,63,SAFE,63,SAFE,62,SAFE
+Platform 5,Mid-Platform AC Coach Alignment Zone,22,35,-0.05,0,35,SAFE,34,SAFE,33,SAFE
+Platform 5,Overhead Indicator Corridor (PF 5 Signpost),28,34,-0.56,24,52,SAFE,47,SAFE,33,SAFE
+Platform 5,Pillar 52/155 & Parcel Staging Area,17,43,0.29,20,66,SAFE,69,SAFE,76,SAFE
+Platform 6,Central Platform 6 Boarding Staging Corridor,18,37,-0.43,0,33,SAFE,28,SAFE,18,SAFE
+Platform 6,FOB Stairwell Descent Landing,23,22,-0.08,0,21,SAFE,20,SAFE,18,SAFE
+Platform 6,Luggage Transit Line & Parcel Trolley Area,18,39,-0.37,10,45,SAFE,42,SAFE,32,SAFE
+Platform 6,Outstation Express Waiting Hall Sector,27,61,0.39,40,105,MODERATE,109,MODERATE,119,MODERATE
+Platform 7,Digital Indicator Sector (PF 7 Fast Local),24,61,-0.53,30,86,SAFE,80,SAFE,67,SAFE
+Platform 7,Enclosed Stairway Descent / Luggage Transit Line,23,24,-0.98,6,20,SAFE,10,SAFE,0,SAFE
+Platform 7,FOB Directional Gantry (PF 6-7 Access Sign),33,58,-0.18,20,76,SAFE,74,SAFE,70,SAFE
+Platform 7,Platform 7 Trackside Waiting Area,16,50,-7.02,16,0,SAFE,0,SAFE,0,SAFE
+Platform 8,East Concourse Access Ramp,20,21,-0.42,0,17,SAFE,13,SAFE,2,SAFE
+Platform 8,East Footbridge Staircase Base,21,69,0.43,34,107,MODERATE,112,MODERATE,122,MODERATE
+Platform 8,Outer Trackside Boarding Line,27,50,-0.07,20,69,SAFE,69,SAFE,67,SAFE
+Platform 8,Terminating Express Buffer Stop Area,17,64,0.68,20,91,SAFE,98,SAFE,115,MODERATE
