@@ -12,7 +12,7 @@ The project aims to estimate future crowd levels across railway platforms and zo
 
 Try the Railway Crowd and Safest Exit Prediction web app:
 
-**[Open Live Web App](YOUR_STREAMLIT_APP_URL)**
+**[Open Live Web App](https://railway-crowd-safest-exit-prediction-fcunu3n9kqsdpiztgukw38.streamlit.app/)**
 
 *Note: This is an educational prototype. Crowd predictions and route recommendations are based on illustrative assumptions and are not verified railway safety guidance.*
 
