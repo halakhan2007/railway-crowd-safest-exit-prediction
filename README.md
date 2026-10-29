@@ -8,6 +8,14 @@ The **Smart Railway Crowd Monitor** is an educational prototype that combines cr
 
 The project aims to estimate future crowd levels across railway platforms and zones, demonstrate example train-platform assignments, and recommend routes based on manually defined distance and congestion weights.
 
+## 🌐 Live Demo
+
+Try the Railway Crowd and Safest Exit Prediction web app:
+
+**[Open Live Web App](YOUR_STREAMLIT_APP_URL)**
+
+*Note: This is an educational prototype. Crowd predictions and route recommendations are based on illustrative assumptions and are not verified railway safety guidance.*
+
 ## ✨ Features
 
 - Platform and zone selection
@@ -34,7 +42,6 @@ Railway-Crowd-and-Safest-Exit-Prediction/
 ├── app.py
 ├── crowd_prediction.py
 ├── route_prediction.py
-├── Demo_Junction_Crowd_Dataset.csv
 ├── crowd_prediction_output.csv
 ├── route_prediction_output.csv
 ├── requirements.txt
@@ -55,11 +62,9 @@ Railway-Crowd-and-Safest-Exit-Prediction/
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/halakhan2007/railway-crowd-safest-exit-prediction.git
 cd <YOUR_REPOSITORY_FOLDER>
 ```
-
-Replace the placeholders with your actual repository URL and folder name.
 
 ### 2. Install dependencies
 
@@ -99,9 +104,13 @@ If the generated output CSV files are already included in the repository, the da
 
 ## 📊 Dataset and Attribution
 
-The dataset used during development was prepared by a project team member from downloaded railway-station CCTV footage. The original video links and publication details are currently unavailable.
+The dataset was prepared by extracting numerical observations from publicly available videos showing conditions on railway platforms at Kalyan station at particular points in time.
 
-The project uses structured numerical observations for educational crowd-prediction experiments. The original footage's source and redistribution permissions have not yet been independently verified.
+The observations were organized into a structured dataset for educational and academic project purposes. The dataset is not an official railway dataset, and the observations may not represent current platform conditions.
+
+The original video links and complete source details are unavailable, so the sources and redistribution permissions have not been independently verified.
+
+**Note:** This project is an educational prototype. Its crowd predictions and route recommendations are based on simplified assumptions and should not be used for real-world railway safety or travel decisions.
 
 **Dataset transparency:**
 
